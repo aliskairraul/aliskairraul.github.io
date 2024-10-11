@@ -12,13 +12,17 @@ El utilizar codigo de Python en la consecusión de Objetivos profesionales, conv
 ## Proyectos Destacados
 
 - **Telecomunicaciones Argentina**:
-  <!-- <p style="text-align: justify; text-indent: 2em;"> -->
-
   Este proyecto se centra en un exhaustivo análisis del sector de las telecomunicaciones en Argentina, utilizando datos extraídos del Ente Nacional de Comunicaciones (ENACOM).
 
-  - Despliegue: https://huggingface.co/spaces/raulstudent/labs_2
-  - Video Explicativo: https://drive.google.com/file/d/1BdyTZxUi7pJMGZ3AFkHliJDtshQ7c2oo/view?usp=sharing
-  - Repositorio: https://github.com/aliskairraul/Bootcamp-Henry-Proyecto-Lab_2.git
+  <a href="https://huggingface.co/spaces/raulstudent/labs_2">Despliegue</a>
+  <!-- - Despliegue: https://huggingface.co/spaces/raulstudent/labs_2 -->
+
+  <a href="https://drive.google.com/file/d/1BdyTZxUi7pJMGZ3AFkHliJDtshQ7c2oo/view?usp=sharing">Video Explicativo</a>
+  <!-- - Video Explicativo: https://drive.google.com/file/d/1BdyTZxUi7pJMGZ3AFkHliJDtshQ7c2oo/view?usp=sharing -->
+
+  <a href="Repositorio: https://github.com/aliskairraul/Bootcamp-Henry-Proyecto-Lab_2.git">Repositorio</a>
+  <!-- - Repositorio: https://github.com/aliskairraul/Bootcamp-Henry-Proyecto-Lab_2.git -->
+
   - Herramientas Utilizadas:
     - Python
     - Polars
@@ -29,8 +33,6 @@ El utilizar codigo de Python en la consecusión de Objetivos profesionales, conv
     - Dash
 
 - **Cadena de Retail de Productos de Computación**:
-  <!-- <p style="text-align: justify; text-indent: 2em;"> -->
-
   Estructuración de EDR y ETL completo a una Cadena de Retail de Productos de Computación. Exigencia: El ETL debe ser realizado con una Herramienta de BigData
 
   - Despliegue: http://aliskairraul.pythonanywhere.com/
@@ -62,8 +64,6 @@ El utilizar codigo de Python en la consecusión de Objetivos profesionales, conv
     - Dash
 
 - **Api de FastApi en Render**:
-  <!-- <p style="text-align: justify; text-indent: 2em;"> -->
-
   Limpieza, ordenamiento y análisis de unos datos acerca de Películas, para posterior elaboración de un modelo de recomendación basado en contenido, y su despliegue en una Api, haciendo los ajustes necesarios pensando en la velocidad de respuesta de la misma, sin perder información en el camino.
 
   - Despliegue: https://primeraapirender.onrender.com/docs
@@ -78,7 +78,6 @@ El utilizar codigo de Python en la consecusión de Objetivos profesionales, conv
     - Plotly
 
 - **Videojuegos Plataforma Steam**:
-  <!-- <p style="text-align: justify; text-indent: 2em;"> -->
   Analizar el mercado de videojuegos, con el objetivo de identificar posibles nichos, en donde se pueden desarrollar nuevos productos.
   - Despliegue: https://huggingface.co/spaces/aliskairraul/aliskairraul-modulo-5
   - Video Explicativo: https://drive.google.com/file/d/14dqK5RIUp_ZPu-ajrrBETwR8n1APf7hH/view?usp=sharing
@@ -92,10 +91,6 @@ El utilizar codigo de Python en la consecusión de Objetivos profesionales, conv
     - Plotly
     - Dash
     - Docker
-
-## Habilidades
-
-- Python, Polars, Seaborn, Scikit-Learn, Streamlit, Dash
 
 ## Contacto
 
