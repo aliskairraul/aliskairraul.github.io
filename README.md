@@ -2,14 +2,16 @@
 
 ## Acerca de mi
 
-Ingeniero en Información de carrera, mi enfoque en convertir datos en información y servir de apoyo al proceso de Toma de Decisiones. Los Ingenieros en Información fuímos formados para ser personas interfaces entre departamentos, con nociones en procesos administrativos, manufactura y un poco mas en informática. Este último año experimenté un refrescamineto o actualización estudiando Data Science, y he visto gratamente como desde la Ingeniería de Datos hasta BI, en todas las áreas sin excepción, la CALIDAD/CANTIDAD de los datos, obviamente conocinedo el contexto, es lo que garantiza la obtención de Información relevante y de calidad.
-
-El utilizar codigo de Python en la consecusión de Objetivos profesionales, convierte el proceso en algo tan apasionante y/o entretenido como Jugar Sudoku o resolver misterios...
+<p style="text-align: justify; text-indent: 2em;">
+Ingeniero en Información de carrera, mi enfoque en convertir datos en información y servir de apoyo al proceso de Toma de Decisiones. Los Ingenieros en Información fuímos formados para ser personas interfaces entre departamentos, con nociones en procesos administrativos, manufactura y un poco mas en informática. Este último año experimenté un refrescamineto o actualización estudiando Data Science, y he visto gratamente como desde la Ingeniería de Datos hasta BI, en todas las áreas sin excepción, la CALIDAD/CANTIDAD de los datos, obviamente conocinedo el contexto, es lo que garantiza la obtención de Información relevante y de calidad.</p>
+<p style="text-align: justify; text-indent: 2em;">
+El utilizar codigo de Python en la consecusión de Objetivos profesionales, convierte el proceso en algo tan apasionante y/o entretenido como Jugar Sudoku o resolver misterios...</p>
 
 ## Proyectos Destacados
 
 - **Telecomunicaciones Argentina**:
-  Este proyecto se centra en un exhaustivo análisis del sector de las telecomunicaciones en Argentina, utilizando datos extraídos del Ente Nacional de Comunicaciones (ENACOM).
+  <p style="text-align: justify; text-indent: 2em;">
+    Este proyecto se centra en un exhaustivo análisis del sector de las telecomunicaciones en Argentina, utilizando datos extraídos del Ente Nacional de Comunicaciones (ENACOM).</p>
 
   - <a href="https://huggingface.co/spaces/raulstudent/labs_2" target="_blank">Despliegue</a>
   - <a href="https://drive.google.com/file/d/1BdyTZxUi7pJMGZ3AFkHliJDtshQ7c2oo/view?usp=sharing" target="_blank">Video Explicativo</a>
@@ -24,7 +26,8 @@ El utilizar codigo de Python en la consecusión de Objetivos profesionales, conv
     - Dash
 
 - **Cadena de Retail de Productos de Computación**:
-  Estructuración de EDR y ETL completo a una Cadena de Retail de Productos de Computación. Exigencia: El ETL debe ser realizado con una Herramienta de BigData
+  <p style="text-align: justify; text-indent: 2em;">
+    Estructuración de EDR y ETL completo a una Cadena de Retail de Productos de Computación. Exigencia: El ETL debe ser realizado con una Herramienta de BigData</p>
 
   - <a href="http://aliskairraul.pythonanywhere.com/" target="_blank">Despliegue</a>
   - <a href="https://drive.google.com/file/d/1qIIZmBFXw4bhqM6T1RC0Kt-L4h2rMrFT/view?usp=sharing" target="_blank">Video Explicativo</a>
@@ -55,7 +58,8 @@ El utilizar codigo de Python en la consecusión de Objetivos profesionales, conv
     - Dash
 
 - **Api de FastApi en Render**:
-  Limpieza, ordenamiento y análisis de unos datos acerca de Películas, para posterior elaboración de un modelo de recomendación basado en contenido, y su despliegue en una Api, haciendo los ajustes necesarios pensando en la velocidad de respuesta de la misma, sin perder información en el camino.
+  <p style="text-align: justify; text-indent: 2em;">
+  Limpieza, ordenamiento y análisis de unos datos acerca de Películas, para posterior elaboración de un modelo de recomendación basado en contenido, y su despliegue en una Api, haciendo los ajustes necesarios pensando en la velocidad de respuesta de la misma, sin perder información en el camino.</p>
 
   - <a href="https://primeraapirender.onrender.com/docs" target="_blank">Despliegue</a>
   - <a href="https://drive.google.com/file/d/1IFZGzRPhJNy1NZFgwZR5xQmGF3X0UUTJ/view?usp=sharing" target="_blank">Video Explicativo</a>
@@ -69,7 +73,8 @@ El utilizar codigo de Python en la consecusión de Objetivos profesionales, conv
     - Plotly
 
 - **Videojuegos Plataforma Steam**:
-  Analizar el mercado de videojuegos, con el objetivo de identificar posibles nichos, en donde se pueden desarrollar nuevos productos.
+  <p style="text-align: justify; text-indent: 2em;">
+  Analizar el mercado de videojuegos, con el objetivo de identificar posibles nichos, en donde se pueden desarrollar nuevos productos. </p>
   - <a href="https://huggingface.co/spaces/aliskairraul/aliskairraul-modulo-5" target="_blank">Despliegue</a>
   - <a href="https://drive.google.com/file/d/14dqK5RIUp_ZPu-ajrrBETwR8n1APf7hH/view?usp=sharing" target="_blank">Video Explicativo</a>
   - <a href="https://github.com/aliskairraul/Bootcamp-Henry-Proyecto-Mod_5.git" target="_blank">Repositorio</a>
@@ -85,5 +90,5 @@ El utilizar codigo de Python en la consecusión de Objetivos profesionales, conv
 
 ## Contacto
 
-- LinkedIn: https://www.linkedin.com/in/aliskair-rodriguez-782b3641/
-- Correo Electrónico: aliskairraul@hgmail.com
+- LinkedIn: <a href="https://huggingface.co/spaces/raulstudent/labs_2" target="_blank">https://www.linkedin.com/in/aliskair-rodriguez-782b3641/</a>
+- Correo Electrónico: aliskairraul@gmail.com
