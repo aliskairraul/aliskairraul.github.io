@@ -8,6 +8,7 @@ Ingeniero en Información de carrera, mi enfoque en convertir datos en informaci
 El utilizar codigo de Python en la consecusión de Objetivos profesionales, convierte el proceso en algo tan apasionante y/o entretenido como Jugar Sudoku o resolver misterios...</p>
 
 ## Contacto
+
 - LinkedIn: <a href="https://www.linkedin.com/in/aliskair-rodriguez-782b3641" target="_blank">https://www.linkedin.com/in/aliskair-rodriguez-782b3641/</a>
 - Correo Electrónico: aliskairraul@gmail.com
 
@@ -93,6 +94,6 @@ El utilizar codigo de Python en la consecusión de Objetivos profesionales, conv
     - Docker
 
 <!-- ## Contacto -->
-<!-- 
+<!--
 - LinkedIn: <a href="https://www.linkedin.com/in/aliskair-rodriguez-782b3641" target="_blank">https://www.linkedin.com/in/aliskair-rodriguez-782b3641/</a>
 - Correo Electrónico: aliskairraul@gmail.com -->
